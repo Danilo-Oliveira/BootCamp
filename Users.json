@@ -1,0 +1,17 @@
+/* 1 */
+{
+    "_id" : ObjectId("5f23551c888e0d297c4fd3fe"),
+    "IdUsuario" : 1,
+    "NomeUsuario" : "Danilo",
+    "Email" : "Dan@Dan",
+    "Senha" : "1234"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5f161cca59abb6e9febbbd94"),
+    "IdUsuario" : 2,
+    "NomeUsuario" : "Danilo2",
+    "Email" : "Dan@Dan2",
+    "Senha" : "12345"
+}
